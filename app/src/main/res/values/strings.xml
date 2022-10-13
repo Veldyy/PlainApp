@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlainApp</string>
+    <string name="signup_text"><b>Don\'t have an account?</b><font color = "#0A2B09"><u>Sign up</u></font></string>
+</resources>
